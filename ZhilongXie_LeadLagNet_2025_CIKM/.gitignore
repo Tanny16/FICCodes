@@ -1,0 +1,16 @@
+# Data (download separately, see README.md)
+data/
+# Trained checkpoints (download / regenerate separately)
+Saved_Models/
+# Run artifacts
+eval_logs/
+*.png
+!figures/*.png
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+# Jupyter
+.ipynb_checkpoints/

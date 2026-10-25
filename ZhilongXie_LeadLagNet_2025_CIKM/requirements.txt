@@ -1,0 +1,10 @@
+# Lead-LagNet - Python dependencies
+# Tested with Python 3.8.5, CUDA 12.2, NVIDIA A100 (see README.md).
+torch==2.2.2
+numpy<2  # PyTorch 2.2.2 wheels are built against NumPy 1.x
+pandas
+scipy
+joblib
+matplotlib
+seaborn
+jupyter

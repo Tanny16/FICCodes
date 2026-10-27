@@ -1,0 +1,8 @@
+# Python 3.9.12
+numpy<2
+pandas<2
+scipy
+scikit-learn
+torch
+torch-geometric
+jupyter

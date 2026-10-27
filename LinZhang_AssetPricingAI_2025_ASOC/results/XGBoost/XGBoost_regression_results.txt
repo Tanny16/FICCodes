@@ -1,0 +1,2 @@
+Best Model Parameters: {'subsample': 0.7, 'n_estimators': 50, 'max_depth': 10, 'learning_rate': 0.1, 'colsample_bytree': 1.0}
+Validation Results: {'mse': 0.036023937, 'r2_oos': -0.027718424797058105, 'best_params': {'subsample': 0.7, 'n_estimators': 50, 'max_depth': 10, 'learning_rate': 0.1, 'colsample_bytree': 1.0}}

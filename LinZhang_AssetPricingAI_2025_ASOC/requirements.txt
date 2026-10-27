@@ -1,0 +1,14 @@
+# Reconstructed from imports; original exact package versions were not archived.
+numpy
+pandas
+scipy
+scikit-learn
+torch
+torch-geometric
+xgboost
+matplotlib
+tqdm
+joblib
+pyarrow
+openpyxl
+jupyterlab

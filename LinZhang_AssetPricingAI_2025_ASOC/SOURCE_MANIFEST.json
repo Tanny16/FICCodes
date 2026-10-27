@@ -1,0 +1,578 @@
+[
+  {
+    "source": "原始数据代码存档/平台代码/quantplus data processing.py",
+    "path": "code/platform/preprocess.py",
+    "source_sha256": "765158a65a777dc7ff60240ef25907f5faa3f4da27585b3f6587f23261e9033b",
+    "archive_sha256": "9dc050ac811f9ffaeafed875376a567a9f6012eb51a24b19d4590f78176c1a4b"
+  },
+  {
+    "source": "原始数据代码存档/平台代码/Evaluating classical machine learning models.py",
+    "path": "code/platform/evaluate_machine_learning.py",
+    "source_sha256": "ba512e77a52f0de219f27b26d9c3cc4e4dc38966ee95e8481c4a4005c04a6e49",
+    "archive_sha256": "636d31e64ef2a2506ac568a995b0cc788405ad89e7f0d8365fc3bd8b3c2317e0"
+  },
+  {
+    "source": "原始数据代码存档/平台代码/Evaluating classical deep learning models.py",
+    "path": "code/platform/evaluate_deep_learning.py",
+    "source_sha256": "5daaf0aab36ab9b83e3d6849c5781de34cf847cae7b2c0ed5a9419ae7e806909",
+    "archive_sha256": "9c3a6020a420782e47c3ce8f0f0dca06c2b3b3956f75e55b7b4be32196366736"
+  },
+  {
+    "source": "原始数据代码存档/原始数据及数据处理/因子数据处理.ipynb",
+    "path": "notebooks/preprocessing/factor_processing.ipynb",
+    "source_sha256": "94a7649f74cec493250043d52b04443622669e1e4d8e398bcadf465fcb313af6",
+    "archive_sha256": "df0570c7eef92b25857988d2a8bbbc44d7c5344c0c3afdf697a5693f22b7517f"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/加载训练数据为dataloder.ipynb",
+    "path": "notebooks/training/data_loaders.ipynb",
+    "source_sha256": "c5c683bfa8674ff37541c36b9b269158ef1555d928dc42cd7fcf7c819fc06e98",
+    "archive_sha256": "557527151c1706c42b8eddcc61214d96c9a1f087863b223e95b50865e45941e6"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/深度学习(非循环).ipynb",
+    "path": "notebooks/training/deep_learning_nonrecurrent.ipynb",
+    "source_sha256": "48b75a12cb5f531f6687d1457af0086efcd007e750f758968b453b60c7a354e7",
+    "archive_sha256": "9817570ba3efe6562714343a6f0b9e224dfd13d120370f7b2e86530b72c4d132"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/深度学习训练.ipynb",
+    "path": "notebooks/training/deep_learning.ipynb",
+    "source_sha256": "76bf401d75a45e117c5290f9c92bbeafd055f78e5c69f91d45e7406a74fce677",
+    "archive_sha256": "9221fc2f06dba04fcec748accacab05d11def50c74de7860dc4f6e664e3859b3"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/data_processing-origin.ipynb",
+    "path": "notebooks/supplemental/data_processing_origin.ipynb",
+    "source_sha256": "b2a8c6b6f538b2c9ae1dec9b2d0858f449cb412b027d7ca81a79dc3a1a28cb67",
+    "archive_sha256": "7968692c978437ba465e5efd79928c2fb9043c34f3d678cd7fb396a91698ada4"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/data_processing_1.ipynb",
+    "path": "notebooks/supplemental/data_processing_1.ipynb",
+    "source_sha256": "31084129235d54f751a3c99d94df5908a0ceab33945725a4b59380005a575e0f",
+    "archive_sha256": "ab0fc5ae9c823672053b39875d903f4faffe631571fa557bb5beb20f4c7a52f9"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/datashare/readme.txt",
+    "path": "data/characteristics_readme.txt",
+    "source_sha256": "19d34649c4fae0528edc9a9f06a4278b0f3202706edb6ed4a8cfe15e5d9e4c2a",
+    "archive_sha256": "bc528a33bc99e6f46022f3fe9e879a1771065b291598b0fb4de31a466765d6c1"
+  },
+  {
+    "source": "原始数据代码存档/相关数据百度网盘存档.txt",
+    "path": "data/baidu_archive.txt",
+    "source_sha256": "60e36a411877b081db2af710a0f7c694f9dd267270f386cf4a08a90f35dac51b",
+    "archive_sha256": "3dc23258d4d1ba3619f3b7b9384ed265665b03cd460ef60290e1abf33ba096ff"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/结果表最新.xlsx",
+    "path": "results/model_comparison.xlsx",
+    "source_sha256": "352d9846127c727b9d86c1a8397ef6b60f1ffa9d552efcc329fd5f136e0accf9",
+    "archive_sha256": "352d9846127c727b9d86c1a8397ef6b60f1ffa9d552efcc329fd5f136e0accf9"
+  },
+  {
+    "source": "原始数据代码存档/集成对比原始代码/dl-ensemble.ipynb",
+    "path": "notebooks/ensemble/dl-ensemble.ipynb",
+    "source_sha256": "ad4ce3c1ff7fa265553d90585535d0ef98d69ec9dd98a451aec122855436002c",
+    "archive_sha256": "22cd50f54beea9068d381156334bbdef8080776138942f5a441db10bd568378a"
+  },
+  {
+    "source": "原始数据代码存档/集成对比原始代码/porfolio_vail_pre.py",
+    "path": "code/ensemble/porfolio_vail_pre.py",
+    "source_sha256": "df57183346cead4b52ff98de998b976577cbff8d9cc7a147f8d7a04d1081975b",
+    "archive_sha256": "88e630618bd2f8fab86ef409a0b275c7833c9b84e24fd153e944d2401fb4e116"
+  },
+  {
+    "source": "原始数据代码存档/集成对比原始代码/vail_predict.py",
+    "path": "code/ensemble/vail_predict.py",
+    "source_sha256": "11fed578765827365f498e6ae4447788bc4853f4e5620b2efa87128d4c68a436",
+    "archive_sha256": "f7c82d573ab11ca70ab66589cbd938ddb093a7b1f36fec680a23e073b8c7b3ef"
+  },
+  {
+    "source": "原始数据代码存档/集成对比原始代码/投资组合计算函数.py",
+    "path": "code/ensemble/投资组合计算函数.py",
+    "source_sha256": "977fae8efb6d19b6f5e41b168f92c86cd7f3aca92a2ece7243839d1112520ea5",
+    "archive_sha256": "84351f1935deefc40331234ffa4272865b2ddfd4c952b4772bc2060019e41f12"
+  },
+  {
+    "source": "原始数据代码存档/集成对比原始代码/集成训练(NN3).ipynb",
+    "path": "notebooks/ensemble/集成训练(NN3).ipynb",
+    "source_sha256": "72dd4bd6c09fbd5bb11d251b65a9fed079d275f252185d7c7e339258fc6a1f9c",
+    "archive_sha256": "1623dde031d7b43a7e07a04005f09ae14fe98523412c8b08a4a386e417779f4a"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/CNN.ipynb",
+    "path": "notebooks/supplemental/stu3/CNN.ipynb",
+    "source_sha256": "bc842bd960b20ea4497aea6575d852ea25167a517d8cd3f581f26db21f4690df",
+    "archive_sha256": "805e7483007896a79b25fd14954fdecd694bebbfd63da249bdb78df45ee356a7"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/cnn1.ipynb",
+    "path": "notebooks/supplemental/stu3/cnn1.ipynb",
+    "source_sha256": "a1f6e813770c4427848ddd5b2b693d5f9eb0a4bfe7d4a27198a9a8b9f5350951",
+    "archive_sha256": "1241285fede5cac45b3dfe3826589c7dd3489722063b945d3e0661b3bd6a287f"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/data_processing.ipynb",
+    "path": "notebooks/supplemental/stu3/data_processing.ipynb",
+    "source_sha256": "7e2a03d638d84987292ca6a5babd0f4bf29ce7e88ee581327b765e64e9a8fd73",
+    "archive_sha256": "552d8f9d13cb4c4a1c9e0f2bda8a526eb689d80566ab50c68d5a4e5dd26cab98"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/ElasticNet.ipynb",
+    "path": "notebooks/supplemental/stu3/ElasticNet.ipynb",
+    "source_sha256": "06bf322fa74a89381cd871e72e5f7c3521202d4e13b2b53d13ac459abc37fbca",
+    "archive_sha256": "2e1bd36781ecd652790550b61e75625649bc3293bf831cde380c0760b747234b"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/gbrt.ipynb",
+    "path": "notebooks/supplemental/stu3/gbrt.ipynb",
+    "source_sha256": "324e1077abe597b98e3fec74c447c747f5503a0e89db0bec84fd9bc6c713a399",
+    "archive_sha256": "64953aa64baaae41b4666c9af43e3b90b9854ed8964aa3d587fc64f7cddd7dcf"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/GLM.ipynb",
+    "path": "notebooks/supplemental/stu3/GLM.ipynb",
+    "source_sha256": "0abe534085b01224290a140a2c200e7803dc290ff43357e58c8ea7ef91b3114a",
+    "archive_sha256": "74d24fe6f04598c9db636b0d1f1cac2c137cb65c46f7d05573d6a6f00e5cc083"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/NN.ipynb",
+    "path": "notebooks/supplemental/stu3/NN.ipynb",
+    "source_sha256": "b7923b68fe870555bfe60f755111cc329a0dfcee4e7f7d3338104dbada140401",
+    "archive_sha256": "0c8555f0a28c04357aaa43c7997a685845124699964750fbe0fe6cd3865a187d"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/NN2.ipynb",
+    "path": "notebooks/supplemental/stu3/NN2.ipynb",
+    "source_sha256": "bf6fe39d01e2d6824e2afbdf9032fce9185350059c4599f616752ea35685a009",
+    "archive_sha256": "23057af41ade02c2615760f0ca6479b0aae9de565be9fde50442bdcf6f22cf62"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/nn3.ipynb",
+    "path": "notebooks/supplemental/stu3/nn3.ipynb",
+    "source_sha256": "55e19578044b6cb54aa3527d624d6778bd8d21c1ba72bbc459c6243e6fedd063",
+    "archive_sha256": "8a047002e53e01756be1a4f8ffead85c0a5301e33a62d3b03e97f0dd1cedd19c"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/OLS.ipynb",
+    "path": "notebooks/supplemental/stu3/OLS.ipynb",
+    "source_sha256": "5f5399e606042ff8faac05d85a09a0a084dcf166e98ef12a2da4da811ca1caab",
+    "archive_sha256": "b71c39e6de36d350f4538f8ffc141dd75b884910f88d1e9f62e3ec5211d38f3b"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/PCR.ipynb",
+    "path": "notebooks/supplemental/stu3/PCR.ipynb",
+    "source_sha256": "49c3e3d4f94503e4d377e2e20bfb844c65c0c2cb5ba7adfc10b90b651a6d234f",
+    "archive_sha256": "2d5fcbf19e0495fc281a9c90c3f373afe5d31bdd2432d5dfc5466d1757b51cb8"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/PLS.ipynb",
+    "path": "notebooks/supplemental/stu3/PLS.ipynb",
+    "source_sha256": "da8dacfdfecb1b931bf8d4d3a4f689d6959637231fff54ef0a26c91c1f98ed41",
+    "archive_sha256": "da74ef9d28be2d42bde0e54e02168c1fab7e31b2d95f64d3ac2f05d9a47a8444"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/pytorch—NN.ipynb",
+    "path": "notebooks/supplemental/stu3/pytorch—NN.ipynb",
+    "source_sha256": "e5853be05c9396e39093b96908239d5334a3047382da90a03f64c241410a76f1",
+    "archive_sha256": "d3e04555fc3e864b794ee5c91bd0f74cf31af9b11baaae05cfbc21a32a1c55f5"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu3/download_2024-09-03_18-53-33/rf.ipynb",
+    "path": "notebooks/supplemental/stu3/rf.ipynb",
+    "source_sha256": "ec590cf138aa4bba5f22315402ab4278bec19e67934ad99134ebced58dcf49e3",
+    "archive_sha256": "9f2a70395d91cd74b20780d5e58aed9b925a770992427bc06d658036b8d2b2eb"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/characteristics and industries.ipynb",
+    "path": "notebooks/supplemental/stu4/characteristics and industries.ipynb",
+    "source_sha256": "8ea1442abe22d25decaffeb827bbf91398ce87a22200e9d3557fc43963e8f582",
+    "archive_sha256": "cc55492aaaa168619770fe3eb679390b20fcf16dd9499b6d22bfdba67955e466"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/characteristics_industries and interactions.ipynb",
+    "path": "notebooks/supplemental/stu4/characteristics_industries and interactions.ipynb",
+    "source_sha256": "0a9074e1e7cccfaff44ea4539ef8a1c1da711e9a93d5ec561c901e3b80811799",
+    "archive_sha256": "91db88f7c824372f1fe19f13fb178845bfab8f109bad1c2d1c2e00d6ae49d7d0"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/data_processing.ipynb",
+    "path": "notebooks/supplemental/stu4/data_processing.ipynb",
+    "source_sha256": "0b705a5918efb52724f1b768c8bd4ae2e5293a54cf4249b7997eb6a76c5ade7b",
+    "archive_sha256": "c710acf990070e081766a5af4d7e7ea7cec8ef57e1fc9b29fb45eec7ab6eed44"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/NN.ipynb",
+    "path": "notebooks/supplemental/stu4/NN.ipynb",
+    "source_sha256": "74b0484a20b76ee6411acf2087b642a64967495854542b519b791265ccd24a18",
+    "archive_sha256": "ffbdff26d1029fbc7d9022da3bd70013c0b10241fce6c4add74e0ccaa096f3ff"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/OLS.ipynb",
+    "path": "notebooks/supplemental/stu4/OLS.ipynb",
+    "source_sha256": "ee5391e8b098766a80e03b754056dc36406f0c10dd39928d4bc179cc743f70aa",
+    "archive_sha256": "9d0325f92ac871c674091b60232569f69d359601fdf6ad5942280b3b219c88e2"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu4/download_2024-09-03_18-55-37/only_characteristics.ipynb",
+    "path": "notebooks/supplemental/stu4/only_characteristics.ipynb",
+    "source_sha256": "7d7f99ba0e3e118ff12cf04c92d093509aa02697bf9d8ce4db8dc1d833347cc5",
+    "archive_sha256": "3db5fef715ab224c152c875381b25b91746175ee87c14b3fbd86318efbb1d861"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/data_processing.ipynb",
+    "path": "notebooks/supplemental/stu5/data_processing.ipynb",
+    "source_sha256": "59a7e041f659fb21b6db6a4ab95f2124e05e4dc56098cde9d73cc366ec55c890",
+    "archive_sha256": "bb3d6412a6e378422f47c10aeccb3edb913a81270dd8e20e43ab1ad3f22353d7"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/ENet & GLM.ipynb",
+    "path": "notebooks/supplemental/stu5/ENet & GLM.ipynb",
+    "source_sha256": "d2b9a6c689a94f0820716af7c0d2722efce60b1239839a98d64c028cd798eb84",
+    "archive_sha256": "efeb0d47e184b6d80170284505f080ad56b9f73d2e29fc7e29c683e1d7348b9f"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/GBRT删.ipynb",
+    "path": "notebooks/supplemental/stu5/GBRT删.ipynb",
+    "source_sha256": "1774a119854d7ed868b3c709f79917898a15c4baa7f8cb148162372938f2d094",
+    "archive_sha256": "402ec52d472f2153efc1a5c2979c0cf9bd278cd6014f2be4fa8347de09ccf1b5"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/LSTM删.ipynb",
+    "path": "notebooks/supplemental/stu5/LSTM删.ipynb",
+    "source_sha256": "4164760b35e2732fc7550af6f362bc90cc9071a63b961479d7416e9691cef5c5",
+    "archive_sha256": "6ec552531deb4b73f43e7a75bb710c4fb2449b6a23ff0b3348da9cf183028360"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/NN3.ipynb",
+    "path": "notebooks/supplemental/stu5/NN3.ipynb",
+    "source_sha256": "59a4b12647a33d64d8feab4e4cc2394e0f9d4fb8ba7e821476d165a4cf419514",
+    "archive_sha256": "ab57cab648a3006fc2c6cc28bdf9935006c19a2058c5f5aed6b7d70f219e2b89"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/OLS.ipynb",
+    "path": "notebooks/supplemental/stu5/OLS.ipynb",
+    "source_sha256": "0bad284322413bebbcea6315f325e131b24d7115d6ecdeccf95f2a430504fe82",
+    "archive_sha256": "740e9188dcc0b8c2df2e45770a197b0d2370bb39ede4bd6ea5d881ab9225cc92"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/PCR.ipynb",
+    "path": "notebooks/supplemental/stu5/PCR.ipynb",
+    "source_sha256": "a8bf1eb9a35d645eb2292a7bb249ecf23db793c703596c1b5f57ba22febc0f4c",
+    "archive_sha256": "792d6ca51cfe0feb72de3a6e543dbb67e84627994ccca299e8766754628fa947"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/PLS删.ipynb",
+    "path": "notebooks/supplemental/stu5/PLS删.ipynb",
+    "source_sha256": "59cdff47699cd61edfd3054859e3e307b370779c05096e9b6ffd2a0578c50be6",
+    "archive_sha256": "73bf25a5b9c342e00bc11aa75c45739959bd9efe9f6680b425c2bc7bf882b41f"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu5/download_2024-09-03_18-58-15/测试结果.ipynb",
+    "path": "notebooks/supplemental/stu5/测试结果.ipynb",
+    "source_sha256": "67725dfb1d22f4c0eb108bc5bf476bdf41ae8dfca03fafe09457fa95af98b29c",
+    "archive_sha256": "ecc0cb29d8fce0dbb4304b4cf46ca40c2e1f060a9b8e3d76a022886b9fc4d158"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/data_processing.ipynb",
+    "path": "notebooks/supplemental/stu7/data_processing.ipynb",
+    "source_sha256": "b92c04a2d5bfe0e911778d5c15e031ca3d978ebd2266eeda4e4da5c92ca2d044",
+    "archive_sha256": "94faac1d40d8ba07cf724b64c0a8b0275ad89ead867c0ca48fd1adf7abfc344e"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/GBRT.ipynb",
+    "path": "notebooks/supplemental/stu7/GBRT.ipynb",
+    "source_sha256": "14fffe764ae707e972fcf886f64ff516f440c42418b7de951658ed40e53d4c53",
+    "archive_sha256": "f08c2db14ff63a11a5d007606242aaaf920f83c1d1ab2f602c351132735b2817"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/GLM.ipynb",
+    "path": "notebooks/supplemental/stu7/GLM.ipynb",
+    "source_sha256": "5f96e638fcbb2a1ead1c014f05252fa7a2816b027e7c91aeb7f49d65868c18ba",
+    "archive_sha256": "8282e3a2a4e3a18dd04498eac93f0bf5c1d0f7eeaa4be46c2199be9a087d6956"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/NN.ipynb",
+    "path": "notebooks/supplemental/stu7/NN.ipynb",
+    "source_sha256": "363c0c30ffcbce8cc5763d0553ddecf66892c93e690cd0d9141fd28e15df7779",
+    "archive_sha256": "5cb28bf59a9a6ce5c8d12a8c5c895d31c92500ba56fe773c37efeb7dd33d0a57"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/NN1.ipynb",
+    "path": "notebooks/supplemental/stu7/NN1.ipynb",
+    "source_sha256": "864db513073db0d98ef7b24a179ca46d72042a2807ee5f0bc42866e56a5450e9",
+    "archive_sha256": "0e126b3aa74a3ae1ac2b6df320e87da888c539e18b5d140e45838eb41e4cea23"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/NN3.ipynb",
+    "path": "notebooks/supplemental/stu7/NN3.ipynb",
+    "source_sha256": "f313ba41beea37bc173306fd7be0fa3554d52424d9e87060c4c2427caf3fe98c",
+    "archive_sha256": "69a2e74ec16e926b621eece7d78ee9d7319cb8d59d84674492595cac6231c070"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/NN4.ipynb",
+    "path": "notebooks/supplemental/stu7/NN4.ipynb",
+    "source_sha256": "3c9ec5fb75dab29c8765d6ea747839a02e6804b4d272ae3554edfb27f8d242f9",
+    "archive_sha256": "d595393c4644a3455e6c08504ef67d40189f29ed50ad7adb4fecd77d5e9e9e5c"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/OLS.ipynb",
+    "path": "notebooks/supplemental/stu7/OLS.ipynb",
+    "source_sha256": "cef3d8c2ada3840bb57b27280a3859dac0bc4cfb8cac483b5dec962a0468a7dc",
+    "archive_sha256": "244de344a6a71927b0e1114231cb2f1d72709abe982c4c2a011229ab37b1f9e4"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/PCR+PLS.ipynb",
+    "path": "notebooks/supplemental/stu7/PCR+PLS.ipynb",
+    "source_sha256": "27349a76ff5f9aad66b47c903afc8ba6d5424f67b8a6c68d3aa06ce42bf6efb5",
+    "archive_sha256": "7da4186d3480c63cc55bc8cb4998100b187e93a776a32d574f7f84f4d4379b11"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu7/download_2024-09-03_18-59-21/RF.ipynb",
+    "path": "notebooks/supplemental/stu7/RF.ipynb",
+    "source_sha256": "98964129f82d889ad7b4197f98595b669aeb0ab104b8a1adc1c20de46c522e2f",
+    "archive_sha256": "7c90ea678ea7d4a49190d66d2f4d3473649a3b2e64b2bed85586e37dee1aef11"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::GLM.ipynb",
+    "path": "notebooks/supplemental/stu8/GLM.ipynb",
+    "source_sha256": "4f7af9929a13e1d0304a54104f24c43b5ec715999c0bb1f509274497efef7373",
+    "archive_sha256": "f1935e72f15c1bb8d97aa20b57a119825e80bea86816c721a083b599bcdd9555"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::RF.ipynb",
+    "path": "notebooks/supplemental/stu8/RF.ipynb",
+    "source_sha256": "cac58cb80a62d6f5b26413002cffb723bb63e8a1e0172c7bf3f19a2477b109cc",
+    "archive_sha256": "c05c8fa053e03407c8c337e73090b27417b72aa99b3b671a66a2d3c69f79ee1c"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::NN.ipynb",
+    "path": "notebooks/supplemental/stu8/NN.ipynb",
+    "source_sha256": "19415a4bb9c9fa82b369b7c022d055520b4022ddc0cacd0efe27d95915c0011f",
+    "archive_sha256": "f50f18ffb482e6ea56fba4c05a0ca8884279affdf6665ed01718926a6974f4d2"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::NN2.ipynb",
+    "path": "notebooks/supplemental/stu8/NN2.ipynb",
+    "source_sha256": "71b92aa8d92cdaa8c844fdaba9d45c2fa675505bcac4b82d9d9da7097c9c8187",
+    "archive_sha256": "e393f2b5e8dbc7e1023a143aacd78bfcd6211e192d16e7bd7957f41c27577f61"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::Elastic Net Regression2.ipynb",
+    "path": "notebooks/supplemental/stu8/Elastic Net Regression2.ipynb",
+    "source_sha256": "e0744b1d0b49d7e27cbea4306420e3cfdc680b7744435e04ca5a1fc0fd00f872",
+    "archive_sha256": "aabfce457f4c61ecf977b9f51c5c4c2d2148ee751c9d17753d2542a7ec81c5ac"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::PLS.ipynb",
+    "path": "notebooks/supplemental/stu8/PLS.ipynb",
+    "source_sha256": "0e7287620452b347f83c9a8b53c0964f155882227ee40cd1ee007164cb204b3e",
+    "archive_sha256": "416dc435a3adc6d410c2de53c9647bd210c4f4d4cc622b3fae5ff26ea1b989be"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::GBRT.ipynb",
+    "path": "notebooks/supplemental/stu8/GBRT.ipynb",
+    "source_sha256": "d5166f5f793a9a833d82ea5fb6a471862a91af693eb7f3bd5f2e18f54bae09fd",
+    "archive_sha256": "904b6d856d85501b1d43fbca7efd6350a708ba819a0dda185f212648053f6018"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::PCR.ipynb",
+    "path": "notebooks/supplemental/stu8/PCR.ipynb",
+    "source_sha256": "1f81e8ccdd7c5df5a298116896b4cde0bdad17b2d5b6c98189e76fce4064aefc",
+    "archive_sha256": "5c50e3fca9d8994d959bcba5322af9353733ed55431938391c8e230a9c4f10e5"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::Untitled3.ipynb",
+    "path": "notebooks/supplemental/stu8/Untitled3.ipynb",
+    "source_sha256": "712bb1ee94f8a199e92db4c7df471ca04564a370505ce531d3ae8a86bdd5eda3",
+    "archive_sha256": "719a72352b96d5bde36e032f3182548d766175235c21c7aa63e70fabffab5193"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::feature_names.ipynb",
+    "path": "notebooks/supplemental/stu8/feature_names.ipynb",
+    "source_sha256": "543ce872b77c85a918c8f60c4707b55127cc6c5b65160fa6a11c31d1bd8a4de5",
+    "archive_sha256": "38b7cdb3f4f78013174c39c0990b8204bafa4d609006657a48d2ff1a19f79a04"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::NN5.ipynb",
+    "path": "notebooks/supplemental/stu8/NN5.ipynb",
+    "source_sha256": "e987d20c501ce0fba854c9b74adb137718ab5890fff0c3bc5d536457d005c5a7",
+    "archive_sha256": "31174e88ba19dcc85ba5eaac1f569863b6ff67f0c3656d75a56092db54ec3b62"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::NN4.ipynb",
+    "path": "notebooks/supplemental/stu8/NN4.ipynb",
+    "source_sha256": "5de0b4b7990b55b41e6d550f852a150e07fe9f5a4ffe02152bc0d8929f21a21b",
+    "archive_sha256": "29902782114059ef68dedbddb16381608ad03ae928f3ed11d3751050d8f21cf5"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::NN3.ipynb",
+    "path": "notebooks/supplemental/stu8/NN3.ipynb",
+    "source_sha256": "6adf44b1bf0c9aa7f470f9249d00838c33a7fdf40000a662f0a818645100857d",
+    "archive_sha256": "60ab1ace9ed39ab4e41711ed53f7c3ab6d8a12a228759fbee12b35366f3e66c0"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::OLS-3.ipynb",
+    "path": "notebooks/supplemental/stu8/OLS-3.ipynb",
+    "source_sha256": "234ad8f46c960b69c510a2832b319c976c04eb7eeb54e9a716278cbde597bb69",
+    "archive_sha256": "8dd694c155d7ddcb7069e3b1a318e13dae95673a875e389dfeddde738a717e60"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::Elastic Net Regression.ipynb",
+    "path": "notebooks/supplemental/stu8/Elastic Net Regression.ipynb",
+    "source_sha256": "c7adce1cb366b7fe7973375afd52c6e5a0940ab3df7e894a6e4aedce06687e3f",
+    "archive_sha256": "081c2343108e6609397bd93fb69c246860f91c4bcf9631f668b1beadf36ce972"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::Untitled1.ipynb",
+    "path": "notebooks/supplemental/stu8/Untitled1.ipynb",
+    "source_sha256": "12e2e8fc3d341882ed0d5cd0cc454b24811776377937855d9babb75a8e155bdd",
+    "archive_sha256": "ca26db76e5a4a39873908bf4021efcea27a7354620d9ff53eebe6bf9240441f7"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::OLS.ipynb",
+    "path": "notebooks/supplemental/stu8/OLS.ipynb",
+    "source_sha256": "eba2f8e1c0e1e65d3c0dfb3fbb5b0731b9181823ba70f5820d8008dea4997328",
+    "archive_sha256": "bd605a928e85d5c39e1d0a47bf9d14d02135333ddb07f87e7d90cf3d70b0379f"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::Untitled.ipynb",
+    "path": "notebooks/supplemental/stu8/Untitled.ipynb",
+    "source_sha256": "af8c07debfd032b70e08d435111b7471dc1430aa58b5533cfcc62b3acc2b1a6b",
+    "archive_sha256": "7906a130384c0e872d3b5fac75e30ab2c9985ef8058584ab680a4c27b0c4b270"
+  },
+  {
+    "source": "原始数据代码存档/补充模型训练对比原始代码及数据/代码/代码/stu8/download_2024-09-03_19-01-43.zip::data_processing.ipynb",
+    "path": "notebooks/supplemental/stu8/data_processing.ipynb",
+    "source_sha256": "baa9e01936a02ba5c1496d28452d6dd12182efb2a50e83c64be02bed1025f4b0",
+    "archive_sha256": "99d02ee010258abee0338cc3add518567afa1b814a07ed6eaa777e6c3459c7bb"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/AdaBoost/AdaBoost_classification_results.txt",
+    "path": "results/AdaBoost/AdaBoost_classification_results.txt",
+    "source_sha256": "a0746d4e0730382835c257cfb3030547d3176e69353bdb04e983823c349cf793",
+    "archive_sha256": "a0746d4e0730382835c257cfb3030547d3176e69353bdb04e983823c349cf793"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/AdaBoost/AdaBoost_regression_results.txt",
+    "path": "results/AdaBoost/AdaBoost_regression_results.txt",
+    "source_sha256": "d396e56fbc9b1ac414155184d492793937f0c9ae80515cd9dbda3ea8c8097fb3",
+    "archive_sha256": "d396e56fbc9b1ac414155184d492793937f0c9ae80515cd9dbda3ea8c8097fb3"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/DecisionTree/DecisionTree_classification_results.txt",
+    "path": "results/DecisionTree/DecisionTree_classification_results.txt",
+    "source_sha256": "5df18822f839657cdbc9bd740bb28e5948fefa77f48e4f493a59f3201c33821d",
+    "archive_sha256": "5df18822f839657cdbc9bd740bb28e5948fefa77f48e4f493a59f3201c33821d"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/DecisionTree/DecisionTree_regression_results.txt",
+    "path": "results/DecisionTree/DecisionTree_regression_results.txt",
+    "source_sha256": "c63d26c7971dd499faad99bbbd7510cc43afe01adddf231730d89a001778e4a9",
+    "archive_sha256": "c63d26c7971dd499faad99bbbd7510cc43afe01adddf231730d89a001778e4a9"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/KNN/KNN_classification_results.txt",
+    "path": "results/KNN/KNN_classification_results.txt",
+    "source_sha256": "5e1b9f802a109ee287e169c73aade4c75c8eacddef6b427ade845552f280460b",
+    "archive_sha256": "5e1b9f802a109ee287e169c73aade4c75c8eacddef6b427ade845552f280460b"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/KNN/KNN_regression_results.txt",
+    "path": "results/KNN/KNN_regression_results.txt",
+    "source_sha256": "a9b0d8ebec2151425c46b1714ebd5076007e0dbe369961c8614051ce0810bee7",
+    "archive_sha256": "a9b0d8ebec2151425c46b1714ebd5076007e0dbe369961c8614051ce0810bee7"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/LogisticRegression/LogisticRegression_classification_results.txt",
+    "path": "results/LogisticRegression/LogisticRegression_classification_results.txt",
+    "source_sha256": "7b4bbafc98dea7ada6a2132049db36830a853b06ed9524f5e67e3f6877b41e3d",
+    "archive_sha256": "7b4bbafc98dea7ada6a2132049db36830a853b06ed9524f5e67e3f6877b41e3d"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/NaiveBayes/NaiveBayes_classification_results.txt",
+    "path": "results/NaiveBayes/NaiveBayes_classification_results.txt",
+    "source_sha256": "8de2947e09116a83e87d3e66fee989d7fee1d369ea8c32e601292a7aeb217b9b",
+    "archive_sha256": "8de2947e09116a83e87d3e66fee989d7fee1d369ea8c32e601292a7aeb217b9b"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/NN1/final_results.txt",
+    "path": "results/NN1/final_results.txt",
+    "source_sha256": "88c0e27646595a83a72399b7703113e4068de99588719e682863d2440f6a7291",
+    "archive_sha256": "88c0e27646595a83a72399b7703113e4068de99588719e682863d2440f6a7291"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/RandomForest/RandomForest_classification_results.txt",
+    "path": "results/RandomForest/RandomForest_classification_results.txt",
+    "source_sha256": "1134f35b2cfbfcdf53b40407e5cb0738f01d2bfaf76befd4ee25eb97fa0411c3",
+    "archive_sha256": "1134f35b2cfbfcdf53b40407e5cb0738f01d2bfaf76befd4ee25eb97fa0411c3"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/RandomForest/RandomForest_regression_results.txt",
+    "path": "results/RandomForest/RandomForest_regression_results.txt",
+    "source_sha256": "138112cc35e4c50d14de2993fb5bf6efef344ceaba67dd6aa8e921db547c63cd",
+    "archive_sha256": "138112cc35e4c50d14de2993fb5bf6efef344ceaba67dd6aa8e921db547c63cd"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/XGBoost/XGBoost_classification_results.txt",
+    "path": "results/XGBoost/XGBoost_classification_results.txt",
+    "source_sha256": "d792d8a2459ab12b92f63be810c3a0abe9340152a903d0d6c79b3e44bcac86d5",
+    "archive_sha256": "d792d8a2459ab12b92f63be810c3a0abe9340152a903d0d6c79b3e44bcac86d5"
+  },
+  {
+    "source": "原始数据代码存档/模型训练原始代码和结果/训练结果/XGBoost/XGBoost_regression_results.txt",
+    "path": "results/XGBoost/XGBoost_regression_results.txt",
+    "source_sha256": "da24681ee913218946bd8acad152df9a6f56c692f84d76ef8f7fedcce87f581a",
+    "archive_sha256": "da24681ee913218946bd8acad152df9a6f56c692f84d76ef8f7fedcce87f581a"
+  },
+  {
+    "source": "作图原始材料投稿/1.png",
+    "path": "figures/1.png",
+    "source_sha256": "4f20ae90d8087a4d7e23967d221bdd45a6857ff9829a91c646f09f67932f52aa",
+    "archive_sha256": "4f20ae90d8087a4d7e23967d221bdd45a6857ff9829a91c646f09f67932f52aa"
+  },
+  {
+    "source": "作图原始材料投稿/2.png",
+    "path": "figures/2.png",
+    "source_sha256": "d6322337fde0577e8f21dc8454f49ae32c2bf8165a601012dcd369cd737550dc",
+    "archive_sha256": "d6322337fde0577e8f21dc8454f49ae32c2bf8165a601012dcd369cd737550dc"
+  },
+  {
+    "source": "作图原始材料投稿/3.png",
+    "path": "figures/3.png",
+    "source_sha256": "4f20ae90d8087a4d7e23967d221bdd45a6857ff9829a91c646f09f67932f52aa",
+    "archive_sha256": "4f20ae90d8087a4d7e23967d221bdd45a6857ff9829a91c646f09f67932f52aa"
+  },
+  {
+    "source": "作图原始材料投稿/Quant Plus主页面子页面表格数据.xlsx",
+    "path": "figures/Quant Plus主页面子页面表格数据.xlsx",
+    "source_sha256": "f411710f69f487fba82fde967fbc6e0133d628381515965f6015ee63cdb366c5",
+    "archive_sha256": "f411710f69f487fba82fde967fbc6e0133d628381515965f6015ee63cdb366c5"
+  },
+  {
+    "source": "作图原始材料投稿/作图图标Fig123_5_12改(1).xlsx",
+    "path": "figures/作图图标Fig123_5_12改(1).xlsx",
+    "source_sha256": "af43ece16f2b0ab2b3d53ad1f6cbe769077c13b3ef6d99d508d590fec3cb09f5",
+    "archive_sha256": "af43ece16f2b0ab2b3d53ad1f6cbe769077c13b3ef6d99d508d590fec3cb09f5"
+  },
+  {
+    "source": "投稿及论文写作材料/2024-11-12ASC引用量材料/Applied Soft Computing - 新增 - 添加作者年份.xlsx",
+    "path": "literature/Applied Soft Computing - 新增 - 添加作者年份.xlsx",
+    "source_sha256": "e96704bf196b3dfe1930dae4d5ecbfce6943fc759610da379e0ad72de611ab8a",
+    "archive_sha256": "e96704bf196b3dfe1930dae4d5ecbfce6943fc759610da379e0ad72de611ab8a"
+  },
+  {
+    "source": "投稿及论文写作材料/2024-11-12ASC引用量材料/Applied Soft Computing.xlsx",
+    "path": "literature/Applied Soft Computing.xlsx",
+    "source_sha256": "66410517dc0d3ce7e52fb6b47a51580e943248af98e2f0da0f3feef5f62b8cfb",
+    "archive_sha256": "66410517dc0d3ce7e52fb6b47a51580e943248af98e2f0da0f3feef5f62b8cfb"
+  },
+  {
+    "source": "投稿及论文写作材料/2024-11-12ASC引用量材料/Quant Plus科研成果论文-2024-7-23更新版.xlsx",
+    "path": "literature/Quant Plus科研成果论文-2024-7-23更新版.xlsx",
+    "source_sha256": "202dd159961a3c840db41ea1b1729f5b9aa76e87e6c0c0603f9e5142c1369221",
+    "archive_sha256": "202dd159961a3c840db41ea1b1729f5b9aa76e87e6c0c0603f9e5142c1369221"
+  }
+]

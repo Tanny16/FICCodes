@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+*.pkl
+*.pt
+*.pth
+*.csv
+*.xlsx
+*.zip
+data/
+SP500/
+checkpoints/
+days/

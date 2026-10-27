@@ -1,0 +1,320 @@
+[
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/LICENSE",
+    "path": "LICENSE",
+    "source_sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "archive_sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/README.md",
+    "path": "README.upstream.md",
+    "source_sha256": "bbd4314e85edfbeee1b94ee8a034b78f001f49ff0b62136a9d2ee2efc7a84f35",
+    "archive_sha256": "44c3e4043afc07dd19ea549736b0ea6c75074d981a5ca249ab4b759c34599914"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/requirements.txt",
+    "path": "requirements.upstream.txt",
+    "source_sha256": "3ac6814c2a5c0f1f690fd1f9491a9645e5cb7264a84f00d4520b6ebcc26d2ac2",
+    "archive_sha256": "658ae9ef70bb5fff309646c5ae58f51d6f3bd473e8da0c9e82ddd97e3734f671"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/run.py",
+    "path": "run.py",
+    "source_sha256": "5d4a8fbe34544ffb2072f6ca7867bfd945b77c6acd822272e2053198379cd73d",
+    "archive_sha256": "2f4dc8b955207ff0555f5c703578adf6e93c703e3cec8be54f255913e358630e"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/configs/FAT_configs.py",
+    "path": "configs/FAT_configs.py",
+    "source_sha256": "a07db17b38286df77161744c2a84273a1b9c995d84b6d059f6d58c2b318dc1f4",
+    "archive_sha256": "a07db17b38286df77161744c2a84273a1b9c995d84b6d059f6d58c2b318dc1f4"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/configs/FAT_configs_v2.py",
+    "path": "configs/FAT_configs_v2.py",
+    "source_sha256": "89f60644ba109395eb26ccb831aff5496f48087ba81df1fa6428a18145dd074d",
+    "archive_sha256": "89f60644ba109395eb26ccb831aff5496f48087ba81df1fa6428a18145dd074d"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/data_provider/data_factory.py",
+    "path": "data_provider/data_factory.py",
+    "source_sha256": "865a7ca880af3cfee8701635a5009374eaa7fa1e845e0aa55bc83814e48ebba5",
+    "archive_sha256": "70286538ed4e7076a6e53840b8a35dfd8f6f62b3729ffd70a65e30ba312f7ca1"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/data_provider/data_loader.py",
+    "path": "data_provider/data_loader.py",
+    "source_sha256": "7ef2b2ec24b0c162382f3ebb48906ad0907736fcb1f70fa6dd8d21453c4ef5c7",
+    "archive_sha256": "7092177dc6c821744cfe41c928b2c96f834a02d84113638ff775a1f41d46fb20"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/data_provider/m4.py",
+    "path": "data_provider/m4.py",
+    "source_sha256": "77c564234de2324047375ca9a4d829aa1032d0f72012bad52d0ad37790c12c7d",
+    "archive_sha256": "77c564234de2324047375ca9a4d829aa1032d0f72012bad52d0ad37790c12c7d"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/exp/exp_basic.py",
+    "path": "exp/exp_basic.py",
+    "source_sha256": "b39adb13245b28b783bf1ab91ca1477e58a25dddba83687fdeda102588182e9b",
+    "archive_sha256": "b39adb13245b28b783bf1ab91ca1477e58a25dddba83687fdeda102588182e9b"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/exp/exp_main.py",
+    "path": "exp/exp_main.py",
+    "source_sha256": "3f4c8f64670b6e35f2c94cd39cf3fa6a2f41da1e5682d0334ad3f13883c965d2",
+    "archive_sha256": "1ae85e01bd912ae559921ef1a89e57a6546d74f9226f6c495ebcb2cf80d44670"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/exp/exp_short_term_forecasting.py",
+    "path": "exp/exp_short_term_forecasting.py",
+    "source_sha256": "3ff6518f020caada41c091c7eae5ba0d37a79a467d97292af6f002025d95f908",
+    "archive_sha256": "0793fadec8152aa65866821e56994a4ebe84ebfdc0dca39ce967462d12875769"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/AutoCorrelation.py",
+    "path": "layers/AutoCorrelation.py",
+    "source_sha256": "b185cfe3549d4052bb3a9df6aa635dd5b6a2e0849b9432151529c9ebc1e87c09",
+    "archive_sha256": "b185cfe3549d4052bb3a9df6aa635dd5b6a2e0849b9432151529c9ebc1e87c09"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/Autoformer_EncDec.py",
+    "path": "layers/Autoformer_EncDec.py",
+    "source_sha256": "330563d780297eebc4c85280b82a8fe490176698e4962a83d1c818a6bd0a9d95",
+    "archive_sha256": "330563d780297eebc4c85280b82a8fe490176698e4962a83d1c818a6bd0a9d95"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/Conv_Blocks.py",
+    "path": "layers/Conv_Blocks.py",
+    "source_sha256": "fc3ea4961a21fb045e39b9b1e5a0c51504dc0614eff895064a7e8ec9359c2cfb",
+    "archive_sha256": "87e30033333c74a3ca8fa1792328a64e09a65659ae428e15b0e520ea2eb92caa"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/decomp.py",
+    "path": "layers/decomp.py",
+    "source_sha256": "39d0bff756efcfdf139a7491134fe941f161dd91d996a7480279eae7029ada80",
+    "archive_sha256": "d074e7f72c67759959579fb85f28e7de6c0420dc7afb9ed64a036c82f58ffc88"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/dema.py",
+    "path": "layers/dema.py",
+    "source_sha256": "fb7b8b587c3074a77a3465dab8113ee87c85f1a67813820f16b488ab44e1e6ed",
+    "archive_sha256": "d0e0394aae0e0fe72b85ef9b28a44df4dab39f3500a0bc101aa9ab8140fb1bd7"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/ema.py",
+    "path": "layers/ema.py",
+    "source_sha256": "eb0cf3cf1782b73c4f851e660f0ab199bdd1a7a9c2cb8191f7e32eb5cb6df3f0",
+    "archive_sha256": "7c921cebb38fc237fdb3a5e522954b08c1f43f2e9f5a30fb3928bd99af836199"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/Embed.py",
+    "path": "layers/Embed.py",
+    "source_sha256": "68208f72a54876252302df6e45860c0c53e12436ebb2555bd48a3b1ae0d313bb",
+    "archive_sha256": "3ef258784ab15737f7e305243efd8686392aa4a50386493b4bc5ca80be046c4f"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/FAT.py",
+    "path": "layers/FAT.py",
+    "source_sha256": "b5eb6f388aa112de60e144e59713c8ead6c6b900bdc2339da7a159f5b2733ab7",
+    "archive_sha256": "8d817bf3bb931f61b7b7b768390da975c34b32c16c12198d3d9dc9fd1ad29f92"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/GFMixerBackbone.py",
+    "path": "layers/GFMixerBackbone.py",
+    "source_sha256": "06d07ad36e0f094a489c32a97b602405d244880c610430eb2af10f274eb7cc0a",
+    "archive_sha256": "e429686b058543b97a8f2f0a27b79f24cc4a2913317c6c7fe8e9334e393a413b"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/layers.py",
+    "path": "layers/layers.py",
+    "source_sha256": "196a42e00aae55867ce93fa4e0cc1f55d2b3b4da6ee0dbd74c53c839e90eb6a2",
+    "archive_sha256": "671cbf6a8b3a985408af72bcbd760035b544f73822f74a7d9f2d226a2a682e95"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/PatchTST_backbone.py",
+    "path": "layers/PatchTST_backbone.py",
+    "source_sha256": "3b46cbb949c8f947bb9cbcca83facf03cb3f8e32a49f6e85ef2110e21b101dec",
+    "archive_sha256": "67ae5c08b02b3eda63b0e0788a7073b904094ed9132055985638cf46be67f599"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/PatchTST_layers.py",
+    "path": "layers/PatchTST_layers.py",
+    "source_sha256": "904eb89f2a860c5de59fa7a67cdb73648449d864f2a869417c585fe9a412d63a",
+    "archive_sha256": "97ac58382278b9799733763838a57e9fbfd85b22f7a4fd767db8643587d0bd99"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/RevIN.py",
+    "path": "layers/RevIN.py",
+    "source_sha256": "cb2808ef081778a3a7c8d2f622b24876f1e9b5bd0ed4d0c5492e9e82b1a3cb15",
+    "archive_sha256": "cb2808ef081778a3a7c8d2f622b24876f1e9b5bd0ed4d0c5492e9e82b1a3cb15"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/SelfAttention_Family.py",
+    "path": "layers/SelfAttention_Family.py",
+    "source_sha256": "c71ecbc11ade3ea0527b5dcc8934781438b14ee7eeb57d91338c4238c47fd7de",
+    "archive_sha256": "c71ecbc11ade3ea0527b5dcc8934781438b14ee7eeb57d91338c4238c47fd7de"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/TGB.py",
+    "path": "layers/TGB.py",
+    "source_sha256": "0addbbc12830cd872fe06c0e83ec59a05ec10934994a71517938aed31965efd0",
+    "archive_sha256": "82477dbe83ad08e626b476f9399bc452d981ca64c0ea8ec1e8cd80dca86c5048"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/layers/Transformer_EncDec.py",
+    "path": "layers/Transformer_EncDec.py",
+    "source_sha256": "bb135608273b996c3b656bfb472c7f637ff1b6667c8dbfedea1f0ded0f8ed878",
+    "archive_sha256": "bb135608273b996c3b656bfb472c7f637ff1b6667c8dbfedea1f0ded0f8ed878"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/Autoformer.py",
+    "path": "models/Autoformer.py",
+    "source_sha256": "5707b64887e2295035e0e880483c3c68f611aec84b09db684540dbac23d96b45",
+    "archive_sha256": "9ff1911f49b18d219c7c1b7be290be782b86e5f4f795cb9cc2db2c7856298cd6"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/DLinear.py",
+    "path": "models/DLinear.py",
+    "source_sha256": "405b946450dbfae11b1a484ed9cd406e8388af04bb9bd282feb778d594973abd",
+    "archive_sha256": "405b946450dbfae11b1a484ed9cd406e8388af04bb9bd282feb778d594973abd"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/GFMixer.py",
+    "path": "models/GFMixer.py",
+    "source_sha256": "c1ecd9284a6085a9e995d1ea07aa90c7ba17a51e01d9749a53e139dfaf7eda03",
+    "archive_sha256": "bda0ab0d6699536a18bbc02d754d10cba3c5d67b6359a023a4405424d136ed39"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/Informer.py",
+    "path": "models/Informer.py",
+    "source_sha256": "d8d08aa29e6d566d8dfd7dd090359ee99ea0d7d5b2184d87a927450fd82d40ad",
+    "archive_sha256": "d8d08aa29e6d566d8dfd7dd090359ee99ea0d7d5b2184d87a927450fd82d40ad"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/Linear.py",
+    "path": "models/Linear.py",
+    "source_sha256": "03eda57218aaea6be10d69c45fbb64d5f4feaa1fd65a1d5fbd8f485fe9eb08c1",
+    "archive_sha256": "a6b3d90250e82c6524b5655a5b6a66262399193623073521bfce5461de5fdbe0"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/NLinear.py",
+    "path": "models/NLinear.py",
+    "source_sha256": "6a1734232031cbe39159cb2ff8fc46bdeabfaeca54b4a4112946276ab9d85ce3",
+    "archive_sha256": "6d959e1fe6522173715ae39aa34ad94267147c2f41991aa59e77ef7be4052d4f"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/PatchTST.py",
+    "path": "models/PatchTST.py",
+    "source_sha256": "588cdcc6316dccebce7497da08106e5c07ecc07dd058d95f71a27b90d5fc4c52",
+    "archive_sha256": "a687b7845754f19dedf0c7d19fa0a3986116ac8bc400436058a48950fafb0e42"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/PIR.py",
+    "path": "models/PIR.py",
+    "source_sha256": "d03c189236e196d92fe3bfb868d8736ffb85f5c06386d1332e6d9a09d1ce8dca",
+    "archive_sha256": "f3ca7d3cde352cec3a03afb7a30f0a3395b9ba809325e719e989c6569ea26d96"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/Stat_models.py",
+    "path": "models/Stat_models.py",
+    "source_sha256": "e1756217ec16cb3b56a986349fa758785dd72d2dde82925948b113ab43414d7b",
+    "archive_sha256": "a1a84de4ea23dcdcac03c3e82cdd8e4e8df1b3f893e23eaf714f29cba7d1f018"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/models/Transformer.py",
+    "path": "models/Transformer.py",
+    "source_sha256": "95fe1ce1efcba2d2d2459c34feaa289f81c3add913358297dafc23953a6e8444",
+    "archive_sha256": "95fe1ce1efcba2d2d2459c34feaa289f81c3add913358297dafc23953a6e8444"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/losses.py",
+    "path": "utils/losses.py",
+    "source_sha256": "dfed7e84cabedfa0c59fc8a456f75d88cf08038f97bb04185e9cbe0b94285a07",
+    "archive_sha256": "dfed7e84cabedfa0c59fc8a456f75d88cf08038f97bb04185e9cbe0b94285a07"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/m4_summary.py",
+    "path": "utils/m4_summary.py",
+    "source_sha256": "ff49b818a490b664ebc7ad3056b140c34735ff97848067a173fe158017a9af09",
+    "archive_sha256": "bbeafa4d3fca326f2e4641a50c4481f89e55437615d39c6fdd645d8735525820"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/masking.py",
+    "path": "utils/masking.py",
+    "source_sha256": "c22de70ad076f4eeecc857aba984741da05da54375333399ff2742b041544986",
+    "archive_sha256": "c22de70ad076f4eeecc857aba984741da05da54375333399ff2742b041544986"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/metrics.py",
+    "path": "utils/metrics.py",
+    "source_sha256": "dcfecc6eca34d7761cd3a4c95bf8300da0acb19d6b097fde4da08390513a6c48",
+    "archive_sha256": "dcfecc6eca34d7761cd3a4c95bf8300da0acb19d6b097fde4da08390513a6c48"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/timefeatures.py",
+    "path": "utils/timefeatures.py",
+    "source_sha256": "8789bfdad611ca0501a10d76240438bdbeaaa15a42f3c3d97f359fb2d3f3dc45",
+    "archive_sha256": "8789bfdad611ca0501a10d76240438bdbeaaa15a42f3c3d97f359fb2d3f3dc45"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/utils/tools.py",
+    "path": "utils/tools.py",
+    "source_sha256": "a3c132358274f2b6b3c991f3432385a3d467a2ab69b5b5b76c9886322c4d5277",
+    "archive_sha256": "f5e6f9b847f9901f6e5c798a5fe5f9818557525daf8280559cd254b1382540a2"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/electricity.sh",
+    "path": "scripts/GFMixer/electricity.sh",
+    "source_sha256": "c19ed971f158262d94103293b01c3e789edcab1ac3f04a95d92557887952a4a7",
+    "archive_sha256": "c19ed971f158262d94103293b01c3e789edcab1ac3f04a95d92557887952a4a7"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/etth1.sh",
+    "path": "scripts/GFMixer/etth1.sh",
+    "source_sha256": "3e7523b1136ebc1cfa37d5b91db0b6254a8f34396010ba37e05a0d84b9e7dcb1",
+    "archive_sha256": "584abce61400441a19609475af98c12fca24b03cf19f8190a44e8312a5a84be7"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/etth2.sh",
+    "path": "scripts/GFMixer/etth2.sh",
+    "source_sha256": "2c6784387f4680b84c9491b76c3200e2afff6b1638d5254f4b9f4cd93dd3bb15",
+    "archive_sha256": "2c6784387f4680b84c9491b76c3200e2afff6b1638d5254f4b9f4cd93dd3bb15"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/ettm1.sh",
+    "path": "scripts/GFMixer/ettm1.sh",
+    "source_sha256": "3bd81d26683c773267470f7787dcaa10d743b1ef58fc6be0f3801b4ba7c165a6",
+    "archive_sha256": "4d30833e27c380758c913d9d4027af3f8015d40b285f6ca50fb01486e224e115"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/ettm2.sh",
+    "path": "scripts/GFMixer/ettm2.sh",
+    "source_sha256": "ccce8b08ff13592c9eef97fa8315d49d3ada8a2d7faf3b6355d07188a60a0151",
+    "archive_sha256": "ccce8b08ff13592c9eef97fa8315d49d3ada8a2d7faf3b6355d07188a60a0151"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/exchange.sh",
+    "path": "scripts/GFMixer/exchange.sh",
+    "source_sha256": "e5c64832d2b035e2945be08876b430348d7c31abf811756aa1433958feebe154",
+    "archive_sha256": "d0a7eeeba9b978b97bd2dce76a97e236d1766d7f80745fc0ab7f802a60af2755"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/M4.sh",
+    "path": "scripts/GFMixer/M4.sh",
+    "source_sha256": "2306592c774e9402ef2748f41c7e079f0714d18c19e3d1a697ee2c9b23124454",
+    "archive_sha256": "c3fd3b28181c69e432f705fb160da658c47d41242a10e3316b15bf21415930d2"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/traffic.sh",
+    "path": "scripts/GFMixer/traffic.sh",
+    "source_sha256": "e8b8e79953278255ec1be2ab410f1b37bdc10849a028c02bdd9d9fed189dd085",
+    "archive_sha256": "ae14f3667b2ba6712cada2fd2fd0d0fd6744c47743faa5bad2180b5be1103057"
+  },
+  {
+    "source": "superlin30/GFMixer@d07a65454fdfd8ff8c75b16d85d259384bbca320/scripts/GFMixer/weather.sh",
+    "path": "scripts/GFMixer/weather.sh",
+    "source_sha256": "095a268f073ae4247c81e624b8e7270fd2346aab6da2410b6d9cfadfdd52419a",
+    "archive_sha256": "9369a17263049aea0f80b1e809eaed7389d95748bd67c506548bc06bddee7840"
+  }
+]

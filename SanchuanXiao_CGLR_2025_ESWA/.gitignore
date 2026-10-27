@@ -1,0 +1,19 @@
+# Reproduction data, generated outputs and local caches
+data/raw/
+CGLR_main/data/*.csv
+CGLR_main/data/variants/
+CGLR_main/batch_runs/
+CGLR_main/manual_runs/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+*.pkl
+*.pt
+*.pth
+*.log
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+

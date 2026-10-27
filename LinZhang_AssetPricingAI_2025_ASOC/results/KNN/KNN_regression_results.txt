@@ -1,0 +1,2 @@
+Best Model Parameters: {'n_neighbors': 9, 'weights': 'uniform'}
+Validation Results: {'mse': 0.03820533, 'r2': -0.10863149166107178, 'best_params': {'n_neighbors': 9, 'weights': 'uniform'}}

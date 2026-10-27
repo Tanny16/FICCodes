@@ -1,0 +1,2 @@
+Best Model Parameters: {'min_samples_split': 10, 'max_depth': 10, 'criterion': 'friedman_mse'}
+Validation Results: {'mse': 0.03587701568692853, 'r2_oos': -0.023526940456519485, 'best_params': {'min_samples_split': 10, 'max_depth': 10, 'criterion': 'friedman_mse'}}

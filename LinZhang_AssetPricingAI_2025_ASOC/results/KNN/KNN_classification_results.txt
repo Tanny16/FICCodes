@@ -1,0 +1,2 @@
+Best Model Parameters: {'n_neighbors': 9, 'weights': 'uniform'}
+Validation Results: {'accuracy': 0.6142631903662912, 'best_params': {'n_neighbors': 9, 'weights': 'uniform'}}

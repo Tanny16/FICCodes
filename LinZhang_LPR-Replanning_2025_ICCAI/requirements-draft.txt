@@ -1,0 +1,7 @@
+# Separate environment: the task-tree draft uses the OpenAI v1 client.
+openai>=1,<2
+pymysql
+pandas
+requests
+ipython
+jupyterlab

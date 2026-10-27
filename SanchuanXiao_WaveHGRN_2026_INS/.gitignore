@@ -1,0 +1,14 @@
+CAS_data/*.csv
+checkpoints/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+*.pkl
+*.pt
+*.pth
+*.log
+.venv/
+venv/
+.env
+.env.*
+!.env.example

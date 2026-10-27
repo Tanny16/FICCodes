@@ -1,0 +1,13 @@
+# Compatibility constraints inferred from archived imports, not a tested lock file.
+# Custom metagpt.management and skill_library source is absent; pip metagpt is not a substitute.
+openai>=0.27,<1
+langchain<0.1
+chromadb
+selenium
+gradio<4
+pandas
+numpy
+scikit-learn
+Pillow
+ipython
+jupyterlab

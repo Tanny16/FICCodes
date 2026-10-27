@@ -1,0 +1,110 @@
+[
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/LICENSE",
+    "path": "LICENSE",
+    "source_sha256": "65e745bddcd91ed422e169edfcfb0b526d2f79da585a2c83364c136ea82a0a39",
+    "archive_sha256": "65e745bddcd91ed422e169edfcfb0b526d2f79da585a2c83364c136ea82a0a39"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/README.md",
+    "path": "README.upstream.md",
+    "source_sha256": "26a17ddb8af4b574d826e6bcc4589668b803dec87efde5e72e54cd14a66e8b89",
+    "archive_sha256": "5c062fe8b8bb85e48c6f106f5f9d767ac2025bbac7c151c8847d2144b2ae6e33"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Algorithm.png",
+    "path": "figs/Algorithm.png",
+    "source_sha256": "8bd89e7bcfa9cf49d1b25d1000a23eb7d010022d18e63bdc4ab79e913f54c64a",
+    "archive_sha256": "8bd89e7bcfa9cf49d1b25d1000a23eb7d010022d18e63bdc4ab79e913f54c64a"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/booking.png",
+    "path": "figs/booking.png",
+    "source_sha256": "f535a73e8be1605ca78960c923af5132552987aa7a6d085ee44b5568bade2009",
+    "archive_sha256": "f535a73e8be1605ca78960c923af5132552987aa7a6d085ee44b5568bade2009"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Comparison .png",
+    "path": "figs/Comparison .png",
+    "source_sha256": "5a0805c83ccc2f904fdedb5ca83be4dc57bd6659c8ca885f15c96dd78f980475",
+    "archive_sha256": "5a0805c83ccc2f904fdedb5ca83be4dc57bd6659c8ca885f15c96dd78f980475"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Ctrip.png",
+    "path": "figs/Ctrip.png",
+    "source_sha256": "2126ea71932b90d1a1cae9b1fb1f0fdc628861718ba89606e98cfc9fdd9455cb",
+    "archive_sha256": "2126ea71932b90d1a1cae9b1fb1f0fdc628861718ba89606e98cfc9fdd9455cb"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Implicit reasoning and Replanning.png",
+    "path": "figs/Implicit reasoning and Replanning.png",
+    "source_sha256": "06ab98115a1d3386d92f6bc8c98a65740e239865f5082a69dd0b51ed56cdc480",
+    "archive_sha256": "06ab98115a1d3386d92f6bc8c98a65740e239865f5082a69dd0b51ed56cdc480"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Logic path reasoning based on KG.png",
+    "path": "figs/Logic path reasoning based on KG.png",
+    "source_sha256": "ea0f4c7dd3567f87d082a866294ac1e61ff5fa4fbb402559c859591c88689247",
+    "archive_sha256": "ea0f4c7dd3567f87d082a866294ac1e61ff5fa4fbb402559c859591c88689247"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Roadmap of single action process.png",
+    "path": "figs/Roadmap of single action process.png",
+    "source_sha256": "4c4f0cc404c8326416b281ac08391915be1582fe4b53e3a6d258ac9c91561535",
+    "archive_sha256": "4c4f0cc404c8326416b281ac08391915be1582fe4b53e3a6d258ac9c91561535"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/figs/Task chain.png",
+    "path": "figs/Task chain.png",
+    "source_sha256": "8c97f722e15f2497e491b97b24a4d54d7023fa940ee6b46a81a021841bd36182",
+    "archive_sha256": "8c97f722e15f2497e491b97b24a4d54d7023fa940ee6b46a81a021841bd36182"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/prompts/Create new skill prompt.txt",
+    "path": "prompts/Create new skill prompt.txt",
+    "source_sha256": "8448ef614405f4510584bfbeae469b4ecd721660cf3b7669c327c4e34d78cb2f",
+    "archive_sha256": "e6e7e133f0e54b1ff0c92e68c066d899d9a7dbb33751147a9b0ee0e2f7c7f982"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/prompts/Initial prompt.txt",
+    "path": "prompts/Initial prompt.txt",
+    "source_sha256": "fcd444a8927d821a1a3d81c86cf9b0dec24b8e1d418545c0584b059c1460ed89",
+    "archive_sha256": "eeef3af4f892b423174d2cd3f8895602129a0356e38d8580247f3007b1a45320"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/prompts/KG prompt.txt",
+    "path": "prompts/KG prompt.txt",
+    "source_sha256": "638a46ff7dfb10ecefda868df4e9ab2b51b59a09adcc26590813819f54ef0255",
+    "archive_sha256": "83aaec9f947358a46f7be3b5ba77bb940b70bdfb258240b6162860f959ba9da6"
+  },
+  {
+    "source": "superlin30/Real-World-Web-Agent@1cd1e00b41794e7e07873b1d269c0fbdedbc0851/prompts/Replanning prompt.txt",
+    "path": "prompts/Replanning prompt.txt",
+    "source_sha256": "9c0d8a606c24fc649141059b34f10af025616fa77cfe97cac6b5d46f9d3c372d",
+    "archive_sha256": "23c9d518f2601de49039cf31a1d07661391754088376381c97cfc2d859ea9eb9"
+  },
+  {
+    "source": "KG.txt",
+    "path": "data/examples/KG.txt",
+    "source_sha256": "2e3b5b04e6b8d877577432d82aad17685089e16ed7b8d2f5b6fae797e636e4cd",
+    "archive_sha256": "ae74db14f4c33e7d13316ffdfbf8a7c0bcca2f5d7ea611ba8e4b845aa5c2ffcc"
+  },
+  {
+    "source": "Database_kg(1).txt",
+    "path": "data/examples/Database_kg(1).txt",
+    "source_sha256": "11c9b371906c6294961d3772032703a4bef4b46dc3fb601c78681afdfec5d9b7",
+    "archive_sha256": "11c9b371906c6294961d3772032703a4bef4b46dc3fb601c78681afdfec5d9b7"
+  },
+  {
+    "source": "RUN_code.ipynb",
+    "path": "notebooks/RUN_code.ipynb",
+    "source_sha256": "341e5337032cbfbf39b3b0353a5190d2868aaf2ee942245a903d2515f3c1a6bc",
+    "archive_sha256": "bdd7633ad5c06816620c3a0d46297816f930359e7ee88ea75ac211940dac760c"
+  },
+  {
+    "source": "Task Tree草稿.ipynb",
+    "path": "notebooks/drafts/Task_Tree.ipynb",
+    "source_sha256": "1a394dc40a39aae11a91243c8f5ecc520ac39031231cf786f6102f619f005b4c",
+    "archive_sha256": "62e7621ba607d83aaf2fd88983e1079a018fbc902b7080db76f7cd4f27db8be9"
+  }
+]

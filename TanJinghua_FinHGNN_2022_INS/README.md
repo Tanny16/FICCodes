@@ -8,7 +8,7 @@
 
 FinHGNN is a conditional heterogeneous graph neural network for stock prediction. It models firm, analyst, and news-theme nodes in a heterogeneous market graph to capture momentum, analyst, and media spillovers. Its conditional message-passing mechanism accounts for both node types and node attributes.
 
-![Uploading 图片.png…]()
+![overview.png…]()
 
 ## Included files
 

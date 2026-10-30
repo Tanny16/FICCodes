@@ -20,6 +20,4 @@ This work studies stock movement prediction by integrating financial fundamental
 
 The sample contains stock code, closing/high/low/open prices, price-to-book ratio, price-to-earnings ratio, date, turnover, and trading volume. It is provided only as an illustrative data sample. It does not include the full financial-news data or all inputs used in the paper.
 
-## Note
 
-This is a lightweight research-code archive containing selected source files and a small data sample. It is not intended to provide a complete reproduction environment or guarantee that the historical code runs with current software versions. The code is retained from the original repository with minimal changes.
